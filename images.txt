@@ -4,12 +4,12 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-#nacos/nacos-server:v2.2.3-slim
-nacos/nacos-server:6.2.6
+nacos/nacos-server:v2.2.3-slim
 xuxueli/xxl-job-admin:2.4.0
 mysql:8.0.32
 alpine:3.18.2
 phpmyadmin:5.2.1
 spryker/redis-commander:0.8.0
 redis:7.2.0
+redis:6.2.6
 livinphp/rocketmq:5.1.0

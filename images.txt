@@ -13,3 +13,4 @@ spryker/redis-commander:0.8.0
 redis:7.2.0
 redis:6.2.6
 livinphp/rocketmq:5.1.0
+rabbitmq:3.12.9

@@ -16,3 +16,4 @@ livinphp/rocketmq:5.1.0
 rabbitmq:3.12.9
 openjdk:17-jdk-slim
 node:20.18.0-alpine
+
